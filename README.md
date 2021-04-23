@@ -1,2 +1,2 @@
-# Reference sequence database for Potential Pathogens
+# Reference sequence database of Potential Pathogens
 This database is constructed on the basis of American Biological Safety Association (ABSA) (https://my.absa.org/tiki-index.php?page=Riskgroups), and the species identified as bio-safety level 2 or 3, and then the corresponding reference sequences are downloaded on LPSN - List of Prokaryotic names with Standing in Nomenclature (https://www.bacterio.net/) and GeneBank (https://www.ncbi.nlm.nih.gov/genbank/).
